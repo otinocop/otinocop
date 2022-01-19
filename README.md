@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar - aka [otinocop] 👋 
 
-[![linkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)][linkedin]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## I'm a Software Engineer and Fullstack Developer!
 
