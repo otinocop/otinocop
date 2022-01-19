@@ -7,7 +7,7 @@
 - 🖥 I’m currently working in NearBPO.
 - ⌨ I had been developing software since 2013.
 - 🌱 I’m currently learning GCP Cloud Developer.
-- 📖 I speak 2 human lenguages (Spanish🇲🇽 and English🇺🇸).
+- 📖 I speak 2 human languages (Spanish 🇲🇽 and English 🇺🇸).
 - ⚡ Fun fact: I love Punk-Rock.
 
 ### Languages and Tools:
