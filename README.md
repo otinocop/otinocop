@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar - aka [otinocop] 👋 
 
-[![Website](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](www.linkedin.com/in/oscaraugustotinoco)
+[![linkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)][linkedin]
 
 ## I'm a Software Engineer and Fullstack Developer!
 
@@ -24,3 +24,6 @@
 <img align="left" alt="MySQL" width="40px" height="40px"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+[linkedin]: https://linkedin.com/in/oscaraugustotinoco
