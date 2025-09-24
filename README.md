@@ -1,12 +1,8 @@
 ### Hi there, I'm Oscar - aka [otinocop] 👋 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
 ## I'm a Software Engineer and Fullstack Developer!
 
-- 🖥 I’m currently working in NearBPO.
-- ⌨ I had been developing software since 2013.
-- 🌱 I’m currently learning GCP Cloud Developer.
+- 🖥 I had been developing software since 2013.
 - 📖 I speak 2 human languages (Spanish 🇲🇽 and English 🇺🇸).
 - ⚡ Fun fact: I love Punk-Rock.
 
@@ -24,6 +20,3 @@
 <img align="left" alt="MySQL" width="40px" height="40px"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-[linkedin]: https://linkedin.com/in/oscaraugustotinoco
